@@ -3,8 +3,120 @@
     "modelo": "Nissan Leaf",
     "bateria": "40 kwh",
     "autonomia": "272 km",
-    "preço": "R$ 293.790,00",
+    "preço": 293790,
     "potência": "150cv",
-    "urlPhoto": ""
-    
-  }]
+    "recarga": "8 hrs",
+    "km_por_kwh": 6.8,
+    "urlPhoto": ""    
+  },
+  {
+   "modelo": "Nissan Leaf",
+    "bateria": "40 kwh",
+    "autonomia": "272 km",
+    "preço": 293790,
+    "potência": "150cv",
+    "recarga": "8 hrs",
+    "km_por_kwh": 6.8,
+    "urlPhoto": ""    
+  },
+   {
+    "modelo": "Nissan Leaf",
+    "bateria": "40 kwh",
+    "autonomia": "272 km",
+    "preço": 293790,
+    "potência": "150cv",
+    "recarga": "8 hrs",
+    "km_por_kwh": 6.8,
+    "urlPhoto": ""    
+  },
+  {
+    "modelo": "Nissan Leaf",
+    "bateria": "40 kwh",
+    "autonomia": "272 km",
+    "preço": 293790,
+    "potência": "150cv",
+    "recarga": "8 hrs",
+    "km_por_kwh": 6.8,
+    "urlPhoto": ""    
+  },
+  {
+    "modelo": "Nissan Leaf",
+    "bateria": "40 kwh",
+    "autonomia": "272 km",
+    "preço": 293790,
+    "potência": "150cv",
+    "recarga": "8 hrs",
+    "km_por_kwh": 6.8,
+    "urlPhoto": ""    
+  },
+  {
+    "modelo": "Nissan Leaf",
+    "bateria": "40 kwh",
+    "autonomia": "272 km",
+    "preço": 293790,
+    "potência": "150cv",
+    "recarga": "8 hrs",
+    "km_por_kwh": 6.8,
+    "urlPhoto": ""    
+  },
+  {
+    "modelo": "Nissan Leaf",
+    "bateria": "40 kwh",
+    "autonomia": "272 km",
+    "preço": 293790,
+    "potência": "150cv",
+    "recarga": "8 hrs",
+    "km_por_kwh": 6.8,
+    "urlPhoto": ""    
+  },
+  {
+    "modelo": "Nissan Leaf",
+    "bateria": "40 kwh",
+    "autonomia": "272 km",
+    "preço": 293790,
+    "potência": "150cv",
+    "recarga": "8 hrs",
+    "km_por_kwh": 6.8,
+    "urlPhoto": ""    
+  },
+  {
+    "modelo": "Nissan Leaf",
+    "bateria": "40 kwh",
+    "autonomia": "272 km",
+    "preço": 293790,
+    "potência": "150cv",
+    "recarga": "8 hrs",
+    "km_por_kwh": 6.8,
+    "urlPhoto": ""    
+  },
+  {
+    "modelo": "Nissan Leaf",
+    "bateria": "40 kwh",
+    "autonomia": "272 km",
+    "preço": 293790,
+    "potência": "150cv",
+    "recarga": "8 hrs",
+    "km_por_kwh": 6.8,
+    "urlPhoto": ""    
+  },
+  {
+    "modelo": "Nissan Leaf",
+    "bateria": "40 kwh",
+    "autonomia": "272 km",
+    "preço": 293790,
+    "potência": "150cv",
+    "recarga": "8 hrs",
+    "km_por_kwh": 6.8,
+    "urlPhoto": ""    
+  },
+{
+    "modelo": "Nissan Leaf",
+    "bateria": "40 kwh",
+    "autonomia": "272 km",
+    "preço": 293790,
+    "potência": "150cv",
+    "recarga": "8 hrs",
+    "km_por_kwh": 6.8,
+    "urlPhoto": ""    
+  }
+]
