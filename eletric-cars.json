@@ -41,12 +41,12 @@
   },
   {
     "modelo": "JAC E-JS1",
-    "bateria": "40 kwh",
-    "autonomia": "272 km",
-    "preço": 293790,
-    "potência": "150cv",
-    "recarga": "8 hrs",
-    "km_por_kwh": 6.8,
+    "bateria": "30kwh",
+    "autonomia": "302km",
+    "preço": 159900,
+    "potência": "62cv",
+    "recarga": "12hrs",
+    "km_por_kwh": 10.0,
     "urlPhoto": ""    
   },
   {
