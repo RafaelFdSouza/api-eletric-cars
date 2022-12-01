@@ -27,7 +27,7 @@
     "potência": "60cv",
     "recarga": "4hr 25min",
     "km_por_kwh": 6.9,
-    "urlPhoto": ""    
+    "urlPhoto": "https://github.com/RafaelFdSouza/api-eletric-cars/blob/main/renault_Kangoo.png"    
   },
   {
     "modelo": "Volvo C40",
