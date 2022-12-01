@@ -37,7 +37,7 @@
     "potência": "408hp",
     "recarga": "8 hrs",
     "km_por_kwh": 5.9,
-    "urlPhoto": ""    
+    "urlPhoto": "https://github.com/RafaelFdSouza/api-eletric-cars/blob/main/volvo-c40-recharge.png"    
   },
   {
     "modelo": "JAC E-JS1",
