@@ -7,7 +7,7 @@
     "potência": "150cv",
     "recarga": "3hr 38min",
     "km_por_kwh": 6.8,
-    "urlPhoto": ""    
+    "urlPhoto": "https://github.com/RafaelFdSouza/api-eletric-cars/blob/main/nissan_leaf.png"    
   },
   {
    "modelo": "Volvo XC40",
