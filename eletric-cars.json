@@ -5,7 +5,7 @@
     "autonomia": "272km",
     "preço": 293790,
     "potência": "150cv",
-    "recarga": "3hr 38min",
+    "recarga": "8 horas",
     "km_por_kwh": 6.8,
     "urlPhoto": "https://github.com/RafaelFdSouza/api-eletric-cars/blob/main/nissan_leaf.png"    
   },
@@ -15,7 +15,7 @@
     "autonomia": "418km",
     "preço": 329950,
     "potência": "408cv",
-    "recarga": "8hr",
+    "recarga": "8 horas",
     "km_por_kwh": 4.2,
     "urlPhoto": "https://github.com/RafaelFdSouza/api-eletric-cars/blob/main/Volvo-XC40-Recharge.png"    
   },
@@ -25,7 +25,7 @@
     "autonomia": "229km",
     "preço": 209000,
     "potência": "60cv",
-    "recarga": "4hr 25min",
+    "recarga": "10 horas 16min",
     "km_por_kwh": 6.9,
     "urlPhoto": "https://github.com/RafaelFdSouza/api-eletric-cars/blob/main/renault_Kangoo.png"    
   },
@@ -35,7 +35,7 @@
     "autonomia": "444km",
     "preço": 429950,
     "potência": "408hp",
-    "recarga": "8 hrs",
+    "recarga": "8 horas",
     "km_por_kwh": 5.9,
     "urlPhoto": "https://github.com/RafaelFdSouza/api-eletric-cars/blob/main/volvo-c40-recharge.png"    
   },
@@ -45,17 +45,17 @@
     "autonomia": "302km",
     "preço": 159900,
     "potência": "62cv",
-    "recarga": "12hrs",
+    "recarga": "12 horas",
     "km_por_kwh": 10.0,
-    "urlPhoto": ""    
+    "urlPhoto": "https://github.com/RafaelFdSouza/api-eletric-cars/blob/main/Jac_EJS1.png"    
   },
   {
     "modelo": "Mini Cooper SE",
-    "bateria": "40 kwh",
-    "autonomia": "272 km",
-    "preço": 293790,
-    "potência": "150cv",
-    "recarga": "8 hrs",
+    "bateria": "32kwh",
+    "autonomia": "246km",
+    "preço": 253000,
+    "potência": "180cv",
+    "recarga": "14 horas",
     "km_por_kwh": 6.8,
     "urlPhoto": ""    
   },
