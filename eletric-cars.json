@@ -56,17 +56,17 @@
     "preço": 253000,
     "potência": "184cv",
     "recarga": "14 horas",
-    "km_por_kwh": 6.8,
+    "km_por_kwh": 7.6,
     "urlPhoto": "https://github.com/RafaelFdSouza/api-eletric-cars/blob/main/mini_cooper.png"    
   },
   {
     "modelo": "Renault Zoe",
-    "bateria": "40 kwh",
-    "autonomia": "272 km",
-    "preço": 293790,
-    "potência": "150cv",
-    "recarga": "8 hrs",
-    "km_por_kwh": 6.8,
+    "bateria": "52kwh",
+    "autonomia": "377Km",
+    "preço": 239990,
+    "potência": "135cv",
+    "recarga": "7 horas",
+    "km_por_kwh": 7.25,
     "urlPhoto": ""    
   },
   {
