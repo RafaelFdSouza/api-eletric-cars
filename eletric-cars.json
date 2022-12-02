@@ -67,16 +67,16 @@
     "potência": "135cv",
     "recarga": "7 horas",
     "km_por_kwh": 7.25,
-    "urlPhoto": ""    
+    "urlPhoto": "https://github.com/RafaelFdSouza/api-eletric-cars/blob/main/renault_zoe.png"    
   },
   {
     "modelo": "Fiat 500e",
-    "bateria": "40 kwh",
-    "autonomia": "272 km",
-    "preço": 293790,
-    "potência": "150cv",
-    "recarga": "8 hrs",
-    "km_por_kwh": 6.8,
+    "bateria": "42kwh",
+    "autonomia": "320km",
+    "preço": 239990,
+    "potência": "118cv",
+    "recarga": "4 horas",
+    "km_por_kwh": 7.6,
     "urlPhoto": ""    
   },
   {
