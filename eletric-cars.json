@@ -85,7 +85,7 @@
     "autonomia": "360km",
     "preço": 629000,
     "potência": "326cv",
-    "recarga": "8horas",
+    "recarga": "8 horas",
     "km_por_kwh": 4.5,
     "urlPhoto": "https://github.com/RafaelFdSouza/api-eletric-cars/blob/main/taycan.png"    
   },
@@ -96,8 +96,8 @@
     "autonomia": "436km",
     "preço": 609990,
     "potência": "408cv",
-    "recarga": "8 hrs",
+    "recarga": "8 horas",
     "km_por_kwh": 4.5,
-    "urlPhoto": ""    
+    "urlPhoto": "https://github.com/RafaelFdSouza/api-eletric-cars/blob/main/audi_etron.png"    
   }
 ]
