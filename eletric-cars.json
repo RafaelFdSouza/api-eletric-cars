@@ -87,26 +87,17 @@
     "potência": "326cv",
     "recarga": "8horas",
     "km_por_kwh": 4.5,
-    "urlPhoto": ""    
+    "urlPhoto": "https://github.com/RafaelFdSouza/api-eletric-cars/blob/main/taycan.png"    
   },
-  {
-    "modelo": "JAC E-JS4 ",
-    "bateria": "40 kwh",
-    "autonomia": "272 km",
-    "preço": 293790,
-    "potência": "150cv",
-    "recarga": "8 hrs",
-    "km_por_kwh": 6.8,
-    "urlPhoto": ""    
-  },
+  
 {
     "modelo": "Audi e-tron",
-    "bateria": "40 kwh",
-    "autonomia": "272 km",
-    "preço": 293790,
-    "potência": "150cv",
+    "bateria": "95kwh",
+    "autonomia": "436km",
+    "preço": 609990,
+    "potência": "408cv",
     "recarga": "8 hrs",
-    "km_por_kwh": 6.8,
+    "km_por_kwh": 4.5,
     "urlPhoto": ""    
   }
 ]
